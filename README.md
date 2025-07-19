@@ -4,7 +4,10 @@
   <strong>Disciplina</strong>: Metodologia do Trabalho Científico  
   <br>
   <strong>Word para Universitários</strong>: Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
+  <br>
   <strong>Coordenadora do Projeto</strong>: Tereza Renôr
+  <br>
+  <strong>Siga no Instagram</strong>: https://www.instagram.com/dgp_ufpb/
 </p>
 
 ---
