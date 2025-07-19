@@ -16,7 +16,9 @@ Estrutura e Conteúdo da Oficina
 A oficina será dividida em cinco módulos, progredindo dos conceitos básicos de formatação até a automatização de tarefas complexas, garantindo que o aluno construa seu conhecimento de forma lógica e sequencial.
 
 ## Módulo 1: A Base de Tudo - Configurando seu Documento (45 minutos)
+
 O objetivo deste módulo é garantir que o "esqueleto" do documento esteja perfeitamente alinhado com as normas ABNT antes mesmo de começar a escrever.
+
 - 1.1. ABNT na Prática: Breve explicação sobre a importância da padronização e quais são as regras gerais de formatação.
 - 1.2. Configuração de Página:
 o	Margens: Definindo as margens superior e esquerda com 3 cm; inferior e direita com 2 cm.
@@ -30,26 +32,29 @@ o	Régua: Ativando e utilizando a régua para verificar margens e recuos.
 o	Mostrar Tudo (¶): A importância de visualizar caracteres não imprimíveis para identificar erros de formatação (espaços duplos, quebras de linha indevidas).
 
 ## Módulo 2: O Poder dos Estilos - A Chave para a Automação (60 minutos)
+
 Este é o módulo mais importante. Aqui, os alunos aprenderão a automatizar toda a formatação de títulos e texto, o que servirá de base para a criação do sumário automático.
-•	2.1. O que são "Estilos" e porque eles economizam sua vida: Explicação sobre como os estilos garantem consistência e permitem alterações em massa no documento.
-•	2.2. Modificando os Estilos Essenciais:
+- 2.1. O que são "Estilos" e porque eles economizam sua vida: Explicação sobre como os estilos garantem consistência e permitem alterações em massa no documento.
+- 2.2. Modificando os Estilos Essenciais:
 o	Normal: Revisão e ajuste do estilo do corpo do texto.
 o	Título 1, Título 2, Título 3...: Configurando a hierarquia de títulos conforme a ABNT (fonte, tamanho, negrito, espaçamento antes e depois, numeração).
-•	2.3. Aplicando Estilos: Prática de aplicação dos estilos recém-configurados em um texto de exemplo.
-•	2.4. Painel de Navegação: Como usar o painel de navegação para visualizar a estrutura do trabalho e se mover rapidamente entre as seções.
+- 2.3. Aplicando Estilos: Prática de aplicação dos estilos recém-configurados em um texto de exemplo.
+- 2.4. Painel de Navegação: Como usar o painel de navegação para visualizar a estrutura do trabalho e se mover rapidamente entre as seções.
 
 ## Módulo 3: Gerando Elementos Automaticamente (60 minutos)
+
 Com a base de estilos criada, este módulo foca em criar, de forma automática, os principais elementos de um trabalho acadêmico.
-•	3.1. O Sumário Automático:
-o	Inserindo um sumário a partir dos estilos de título.
-o	Atualizando o sumário com um clique (novos capítulos, alteração de páginas).
-•	3.2. Ilustrações e Tabelas:
+
+- 3.1. O Sumário Automático:
+  - Inserindo um sumário a partir dos estilos de título.
+  - Atualizando o sumário com um clique (novos capítulos, alteração de páginas).
+- 3.2. Ilustrações e Tabelas:
 o	Inserindo Legendas: Como inserir legendas formatadas (ex: "Figura 1 - Fluxograma do processo") em imagens e tabelas.
 o	Criando Listas Automáticas: Gerando a "Lista de Figuras" e a "Lista de Tabelas" a partir das legendas criadas.
-•	3.3. Citações e Referências (Ferramenta do Word):
-o	Introdução à ferramenta: Como inserir citações no corpo do texto usando o gerenciador de fontes bibliográficas do Word.
-o	Gerando a Lista de Referências: Como criar a bibliografia final automaticamente.
-o	Alerta ABNT: Instruir que o estilo "ABNT" do Word pode estar desatualizado e que uma revisão manual final é sempre necessária.
+- 3.3. Citações e Referências (Ferramenta do Word):
+  - Introdução à ferramenta: Como inserir citações no corpo do texto usando o gerenciador de fontes bibliográficas do Word.
+  - Gerando a Lista de Referências: Como criar a bibliografia final automaticamente.
+  - Alerta ABNT: Instruir que o estilo "ABNT" do Word pode estar desatualizado e que uma revisão manual final é sempre necessária.
 
 ## Módulo 4: Paginação e Seções - Os Detalhes Finais (45 minutos)
 Este módulo resolve uma das maiores dificuldades dos estudantes: a correta numeração das páginas.
