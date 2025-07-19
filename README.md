@@ -4,6 +4,7 @@
   <strong>Disciplina</strong>: Metodologia do Trabalho Científico  
   <br>
   <strong>Word para Universitários</strong>: Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
+  <strong>Coordenadora do Projeto</strong>: Tereza Renôr
 </p>
 
 ---
