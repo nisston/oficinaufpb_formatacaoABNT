@@ -1,84 +1,105 @@
-# UNIVERSIDADE FEDERAL DA PARAÍBA – UFPB
-## DEPARTAMENTO DE GESTÃO PÚBLICA – DGP
+<p align="center">
+  <h1 align="center">UNIVERSIDADE FEDERAL DA PARAÍBA – UFPB</h1>
+  <h2 align="center">DEPARTAMENTO DE GESTÃO PÚBLICA – DGP</h2>
+  <strong>Disciplina</strong>: Metodologia do Trabalho Científico  
+  <br>
+  <strong>Word para Universitários</strong>: Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
+</p>
 
-**Disciplina**: Metodologia do Trabalho Científico
+---
 
-Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
+### 🎯 Público-alvo
 
-**Word para Universitários**: Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
+Estudantes do curso de Gestão Pública da UFPB, que necessitam formatar seus trabalhos, artigos, TCCs e outros textos acadêmicos de acordo com as normas da ABNT (Associação Brasileira de Normas Técnicas).
 
-**Público-alvo**: Estudantes do curso de Gestão Pública da UFPB, que necessitam formatar seus trabalhos, artigos, TCCs e outros textos acadêmicos de acordo com as normas da ABNT (Associação Brasileira de Normas Técnicas).
+### 🎓 Objetivo Geral
 
-**Objetivo Geral**: Capacitar os estudantes a utilizarem as ferramentas essenciais e avançadas do Microsoft Word para otimizar o tempo e garantir a correta formatação e estruturação de seus trabalhos acadêmicos, com foco principal nas normas da ABNT.
+Capacitar os estudantes a utilizarem as ferramentas essenciais e avançadas do Microsoft Word para otimizar o tempo e garantir a correta formatação e estruturação de seus trabalhos acadêmicos, com foco principal nas normas da ABNT.
 
-**Duração Sugerida**: 4 horas (com um intervalo de 15 minutos).
+### ⏳ Duração Sugerida
 
-**Metodologia**: A oficina será prática ("mão na massa"). Os participantes devem, preferencialmente, ter acesso a um computador com o Microsoft Word instalado. 
+4 horas (com um intervalo de 15 minutos).
 
-O instrutor demonstrará cada passo, enquanto os alunos replicam as ações em um documento de exemplo.
+### 🧪 Metodologia
 
-Estrutura e Conteúdo da Oficina
+A oficina será prática ("mão na massa"). Os participantes devem, preferencialmente, ter acesso a um computador com o Microsoft Word instalado. O instrutor demonstrará cada passo, enquanto os alunos replicam as ações em um documento de exemplo.
+
+---
+
+## 📚 Estrutura e Conteúdo da Oficina
 
 A oficina será dividida em cinco módulos, progredindo dos conceitos básicos de formatação até a automatização de tarefas complexas, garantindo que o aluno construa seu conhecimento de forma lógica e sequencial.
 
-## Módulo 1: A Base de Tudo - Configurando seu Documento (45 minutos)
+---
 
-O objetivo deste módulo é garantir que o "esqueleto" do documento esteja perfeitamente alinhado com as normas ABNT antes mesmo de começar a escrever.
+## 🔹 Módulo 1: A Base de Tudo - Configurando seu Documento (45 min)
 
-- 1.1. ABNT na Prática: Breve explicação sobre a importância da padronização e quais são as regras gerais de formatação.
-- 1.2. Configuração de Página:
-  - Margens: Definindo as margens superior e esquerda com 3 cm; inferior e direita com 2 cm.
-  - Tamanho do Papel: Configurando para o padrão A4.
-- 1.3. Fonte e Parágrafo Padrão:
-  - Fonte: Definindo a fonte padrão do documento (ex: Arial ou Times New Roman, tamanho 12).
-  - Espaçamento: Configurando o espaçamento entre linhas para 1,5.
-  - Recuo: Ajustando o recuo especial de 1,25 cm na primeira linha do parágrafo.
--	1.4. Ferramentas de Visualização:
-  - Régua: Ativando e utilizando a régua para verificar margens e recuos.
-  - Mostrar Tudo (¶): A importância de visualizar caracteres não imprimíveis para identificar erros de formatação (espaços duplos, quebras de linha indevidas).
+- **1.1. ABNT na Prática**: Importância da padronização e regras gerais.
+- **1.2. Configuração de Página**:
+  - Margens: 3 cm (sup/esq), 2 cm (inf/dir)
+  - Papel A4
+- **1.3. Fonte e Parágrafo Padrão**:
+  - Fonte: Arial ou Times New Roman, tam. 12
+  - Espaçamento: 1,5
+  - Recuo: 1,25 cm na 1ª linha
+- **1.4. Ferramentas de Visualização**:
+  - Régua
+  - Mostrar Tudo (¶)
 
-## Módulo 2: O Poder dos Estilos - A Chave para a Automação (60 minutos)
+---
 
-Este é o módulo mais importante. Aqui, os alunos aprenderão a automatizar toda a formatação de títulos e texto, o que servirá de base para a criação do sumário automático.
-- 2.1. O que são "Estilos" e porque eles economizam sua vida: Explicação sobre como os estilos garantem consistência e permitem alterações em massa no documento.
-- 2.2. Modificando os Estilos Essenciais:
-  - Normal: Revisão e ajuste do estilo do corpo do texto.
-  - Título 1, Título 2, Título 3...: Configurando a hierarquia de títulos conforme a ABNT (fonte, tamanho, negrito, espaçamento antes e depois, numeração).
-- 2.3. Aplicando Estilos: Prática de aplicação dos estilos recém-configurados em um texto de exemplo.
-- 2.4. Painel de Navegação: Como usar o painel de navegação para visualizar a estrutura do trabalho e se mover rapidamente entre as seções.
+## 🔹 Módulo 2: O Poder dos Estilos - A Chave para a Automação (60 min)
 
-## Módulo 3: Gerando Elementos Automaticamente (60 minutos)
+- **2.1. O que são "Estilos"** e por que automatizam sua vida.
+- **2.2. Modificando os Estilos**:
+  - Corpo do texto (Normal)
+  - Títulos hierárquicos (Título 1, 2, 3...)
+- **2.3. Aplicando Estilos**
+- **2.4. Painel de Navegação**
 
-Com a base de estilos criada, este módulo foca em criar, de forma automática, os principais elementos de um trabalho acadêmico.
+---
 
-- 3.1. O Sumário Automático:
-  - Inserindo um sumário a partir dos estilos de título.
-  - Atualizando o sumário com um clique (novos capítulos, alteração de páginas).
-- 3.2. Ilustrações e Tabelas:
-  - Inserindo Legendas: Como inserir legendas formatadas (ex: "Figura 1 - Fluxograma do processo") em imagens e tabelas.
-  - Criando Listas Automáticas: Gerando a "Lista de Figuras" e a "Lista de Tabelas" a partir das legendas criadas.
-- 3.3. Citações e Referências (Ferramenta do Word):
-  - Introdução à ferramenta: Como inserir citações no corpo do texto usando o gerenciador de fontes bibliográficas do Word.
-  - Gerando a Lista de Referências: Como criar a bibliografia final automaticamente.
-  - Alerta ABNT: Instruir que o estilo "ABNT" do Word pode estar desatualizado e que uma revisão manual final é sempre necessária.
+## 🔹 Módulo 3: Gerando Elementos Automaticamente (60 min)
 
-## Módulo 4: Paginação e Seções - Os Detalhes Finais (45 minutos)
-Este módulo resolve uma das maiores dificuldades dos estudantes: a correta numeração das páginas.
-- 4.1. Quebras de Página vs. Quebras de Seção: Entendendo a diferença e quando usar cada uma para isolar partes do trabalho (capa, elementos pré-textuais, conteúdo textual).]
-- 4.2. Numeração de Página Profissional:
-  - Configurando o documento para que a contagem de páginas inicie na folha de rosto, mas o número só apareça a partir da introdução.
-  - Formatando o número da página no canto superior direito.
-- 4.3. Notas de Rodapé: Como inserir e formatar notas de rodapé para explicações complementares.
+- **3.1. Sumário Automático**:
+  - Inserção e atualização
+- **3.2. Ilustrações e Tabelas**:
+  - Legendas
+  - Listas automáticas
+- **3.3. Citações e Referências**:
+  - Gerenciador de fontes
+  - Lista de Referências
+  - Atenção ao estilo "ABNT" do Word
 
-## Módulo 5: Revisão e Finalização (15 minutos)
-Passos finais para garantir uma entrega de qualidade e colaboração com orientadores.
-- 5.1. Ferramentas de Revisão:
-  - Utilizando o verificador de "Ortografia e Gramática".
-  - Controle de Alterações: Como ativar e usar esta função para receber feedback do orientador sem perder o controle das versões do texto.
-- 5.2. Salvando para a Entrega: A importância de salvar o arquivo final em formato PDF para garantir que a formatação não seja alterada.
+---
 
-# Materiais de Apoio para os Participantes:
-- 1.	Template (Modelo) ABNT para Word: Um arquivo .dotx pré-configurado com todas as margens, estilos e configurações ensinadas na oficina, pronto para ser usado.
-- 2.	Guia Rápido (PDF): Um folheto digital com o resumo dos principais comandos e atalhos abordados.
-- 3.	Documento de Exercício: Um arquivo .docx com texto não formatado para que os alunos possam praticar as habilidades durante a oficina.
+## 🔹 Módulo 4: Paginação e Seções - Os Detalhes Finais (45 min)
 
+- **4.1. Quebras de Página vs. Seção**
+- **4.2. Numeração Profissional**:
+  - Início na folha de rosto
+  - Numeração visível só na introdução
+- **4.3. Notas de Rodapé**
+
+---
+
+## 🔹 Módulo 5: Revisão e Finalização (15 min)
+
+- **5.1. Ferramentas de Revisão**:
+  - Ortografia e Gramática
+  - Controle de Alterações
+- **5.2. Salvando para Entrega**:
+  - Exportação em PDF
+
+---
+
+## 📎 Materiais de Apoio para os Participantes
+
+1. 📄 **Template ABNT (.dotx)**  
+   Modelo pré-configurado com margens, estilos e configurações.
+
+2. ⚡ **Guia Rápido (PDF)**  
+   Resumo dos principais comandos e atalhos.
+
+3. ✍️ **Documento de Exercício (.docx)**  
+   Texto não formatado para prática durante a oficina.
