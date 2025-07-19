@@ -103,3 +103,31 @@ A oficina será dividida em cinco módulos, progredindo dos conceitos básicos d
 
 3. ✍️ **Documento de Exercício (.docx)**  
    Texto não formatado para prática durante a oficina.
+
+
+---
+
+## 📚 Tutoriais e Guias sobre LibreOffice
+
+### 🎥 Vídeos tutoriais no YouTube
+
+- [LibreOffice Writer - Tutorial para Iniciantes (em inglês)](https://www.youtube.com/watch?v=JIBWOjeiptA)
+- [LibreOffice Calc - Planilhas para Iniciantes (em inglês)](https://www.youtube.com/watch?v=HcpaIuOLCqo)
+- [LibreOffice Calc - Operações Básicas (em português)](https://www.youtube.com/watch?v=XvraKHGMg5o)
+
+---
+
+### 📄 Guias e Manuais em PDF
+
+- [Guia do LibreOffice Writer 7.1 (em português)](https://documentation.libreoffice.org/assets/Uploads/Documentation/pt-br/WG71/WG71.pdf)
+- [Guia do LibreOffice Calc 7.0 (em inglês)](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/CG7.0/CG70-CalcGuide.pdf)
+- [Tutorial básico do LibreOffice Writer (em português)](https://realptl.letras.ufmg.br/realptl/wp-content/uploads/2017/09/libreoffice-Writer-editor_textos.pdf)
+- [Guia de Introdução ao LibreOffice 5.0 (em português)](https://documentation.libreoffice.org/assets/Uploads/Documentation/pt-br/GS50/GS50-IntroducaoLO-5.0-ptbr.pdf)
+
+---
+
+### 🌐 Outros Recursos
+
+- [Guia oficial "Getting Started" (em inglês)](https://www.youtube.com/watch?v=YvXNivbKiS4)
+- [Discussão com recomendações na comunidade r/libreoffice (Reddit)](https://www.reddit.com/r/libreoffice/comments/a2503q/what_are_some_good_tutorials_on_how_to_use_calc/)
+
