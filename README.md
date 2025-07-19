@@ -1,8 +1,7 @@
 # UNIVERSIDADE FEDERAL DA PARAÍBA – UFPB
+## DEPARTAMENTO DE GESTÃO PÚBLICA – DGP
 
-# DEPARTAMENTO DE GESTÃO PÚBLICA – DGP
-
-## Disciplina: Metodologia do Trabalho Científico
+**Disciplina**: Metodologia do Trabalho Científico
 
 Da Formatação ABNT à Automatização de Trabalhos Acadêmicos
 
